@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./styles/_index.scss";
 
 function App() {

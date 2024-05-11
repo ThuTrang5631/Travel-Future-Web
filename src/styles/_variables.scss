@@ -76,5 +76,14 @@ $scrimImage: blur(4px);
 $shadowLarge: 0 2px 54px 0 rgba(0, 0, 0, 0.1);
 $shadowMedium: 0 2px 12px 0 rgba(0, 0, 0, 0.15);
 $shadowSmall: 0 2px 3px 0 rgba(0, 0, 0, 0.15);
+
+// TYPOGRAPHY
 $ta-sans-serif: "Trip Sans VF", "Trip Sans", Arial, sans-serif;
 $ta-monospace: "Trip Sans Mono", Courier, monospace, Arial, sans-serif;
+
+//BREAKPOINTS
+$breakpoint-sm: 375px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1028px;
+$breakpoint-xxl: 1440px;
